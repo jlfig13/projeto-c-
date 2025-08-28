@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Avanade C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a649cd607aa4b630fee34fe8ea9527e16182d14")]
 [assembly: System.Reflection.AssemblyProductAttribute("Avanade C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Avanade C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
